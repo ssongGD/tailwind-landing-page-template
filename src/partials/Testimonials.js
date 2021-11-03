@@ -26,9 +26,8 @@ function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 mb-4">Trusted by over 20,000 companies all over the world</h2>
-            <p className="text-xl text-gray-600" data-aos="zoom-y-out">Arcu cursus vitae congue mauris rhoncus viverra nibh cras pulvinar mattis
-                blandit libero cursus mattis.</p>
+            <h2 className="h2 mb-4">Thank you, Everyone</h2>
+            <p className="text-xl text-gray-600" data-aos="zoom-y-out">Thank you for watching until here. I will slowly wrap up now.</p>
           </div>
 
           {/* Items */}
@@ -84,11 +83,10 @@ function Testimonials() {
                   <img className="relative rounded-full" src={require('../images/testimonial.jpg').default} width="96" height="96" alt="Testimonial 01" />
                 </div>
                 <blockquote className="text-xl font-medium mb-4">
-                  “ I love this product and would recommend it to anyone. Could be not easier to use, and our multiple websites are wonderful. We get nice comments all the time. “
+                  “ Lr는 ㄱr끔 눈물을 흘린ㄷr.. ㅈI금은 웃고있ㅈI만 LHㄱr 얼ㅁrㄴr  힘든ㅈI  Lㅓ는 모를거0ㅑ.. 잘ㅈIㄴH ㄴHㅅrㄹ6 “
                 </blockquote>
-                <cite className="block font-bold text-lg not-italic mb-1">Darya Finger</cite>
+                <cite className="block font-bold text-lg not-italic mb-1">Cyworld 갬성 中..</cite>
                 <div className="text-gray-600">
-                  <span>CEO & Co-Founder</span> <a className="text-blue-600 hover:underline" href="#0">@Dropbox</a>
                 </div>
               </div>
 

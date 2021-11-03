@@ -39,8 +39,8 @@ function Newsletter() {
 
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
-                <h3 className="h3 text-white mb-2">Powering your business</h3>
-                <p className="text-gray-300 text-lg mb-6">Lorem ipsum dolor sit amet consectetur adipisicing elit nemo expedita voluptas culpa sapiente.</p>
+                <h3 className="h3 text-white mb-2">Wow! This is the end.</h3>
+                <p className="text-gray-300 text-lg mb-6">Thank you for watching until here. If you write down your email in the box below, we won't give you Starbucks Gift Con through a lottery!</p>
 
                 {/* CTA form */}
                 <form className="w-full lg:w-auto">
